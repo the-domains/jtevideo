@@ -1,7 +1,7 @@
 name: "J'TE VIDÉO"
 favicon: null
-layout_spectrum: 0.07688263221643865
-typography_spectrum: 0.8758263315539807
+layout_spectrum: 0.51037
+typography_spectrum: 0.75875
 title: "J'TE VIDÉO"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.9529225705191493
-  lightness: 0.793790637049824
+    - '#282828'
+    - '#738991'
+    - '#656565'
+    - '#105f7b'
+    - '#b0b0b0'
+  brandStrength: 0.6875
+  lightness: 0.9375
   saturation: 0.9613292498979717
   rhythmicContrast: 0.4028517175465822
 purpose: []
